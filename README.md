@@ -13,6 +13,8 @@ _Dictionary in Malagasy_
 # References:
 | Year | URL                                                             |  Title                                | Author               |
 |------|:----------------------------------------------------------------|:--------------------------------------|:----------------------|
+| 1875 | [3PcUAAAAYAAJ](https://books.google.ca/books?id=3PcUAAAAYAAJ)   | Diksionary englisy sy malagasy        | Joseph S. Sewell, LMS |
 | 1884 | [jBkEAAAAYAAJ](https://books.google.ca/books?id=jBkEAAAAYAAJ)   | Malagasy for Beginners                | James Richardson, LMS |
 | 1885 | [gRkMAAAAMAAJ](https://books.google.ca/books?id=gRkMAAAAMAAJ)   | A NEW MALAGASY-ENGLISH DICTIONARY     | James Richardson, LMS |
+
 
