@@ -1,6 +1,6 @@
-# Voambolana
+# Voambolana _Dictionary in Malagasy_
 
-_see_
+
 
 **References:**
 
