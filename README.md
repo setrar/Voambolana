@@ -11,6 +11,7 @@ _Dictionary in Malagasy_
 
 
 # References:
-
-A NEW MALAGASY-ENGLISH DICTIONARY.
+| URL                                                             | A NEW MALAGASY-ENGLISH DICTIONARY |
+|:----------------------------------------------------------------|:----------------------------------|
+| [gRkMAAAAMAAJ](https://books.google.ca/books?id=gRkMAAAAMAAJ)   |                                   |
 
