@@ -9,3 +9,8 @@ _Dictionary in Malagasy_
 
 ![Image](src)
 
+
+# References:
+
+A NEW MALAGASY-ENGLISH DICTIONARY.
+
