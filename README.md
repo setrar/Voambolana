@@ -11,7 +11,7 @@ _Dictionary in Malagasy_
 
 
 # References:
-| URL                                                             | A NEW MALAGASY-ENGLISH DICTIONARY |
-|:----------------------------------------------------------------|:----------------------------------|
-| [gRkMAAAAMAAJ](https://books.google.ca/books?id=gRkMAAAAMAAJ)   |                                   |
+| URL                                                             |  Title                                      | Author               |
+|:----------------------------------------------------------------|:--------------------------------------------|:---------------------|
+| [gRkMAAAAMAAJ](https://books.google.ca/books?id=gRkMAAAAMAAJ)   |    A NEW MALAGASY-ENGLISH DICTIONARY        |                      |
 
