@@ -5,7 +5,7 @@ _Dictionary in Malagasy_
 
 **References:**
 
-[Link](https://en.wikipedia.org/wiki/DICT) 
+[DICT](https://en.wikipedia.org/wiki/DICT) 
 
 ![Image](src)
 
